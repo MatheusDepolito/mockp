@@ -1,6 +1,6 @@
 🚀 Mockp
 
-Mockp é um projeto full stack desenvolvido com NestJS e Next.js, focado em uma arquitetura escalável e moderna. O sistema integra diversas tecnologias para proporcionar uma experiência otimizada e eficiente.
+Mockp é um projeto full stack desenvolvido com NestJS e Next.js, focado em uma arquitetura monorepositorie. O sistema integra diversas tecnologias para proporcionar uma experiência otimizada e eficiente.
 
 🛠 Tecnologias Utilizadas
 
@@ -12,15 +12,23 @@ GraphQL - API flexível para consultas eficientes
 
 Cli Codegen - Geração automática de tipos para GraphQL
 
-Stripe - Integração para pagamentos
+Swagger - Documentação rest
 
-Cloudinary - Armazenamento e gerenciamento de imagens na nuvem
+Apollo Client - Utilizado no frontend como client GraphQL
 
 Frontend
 
 Next.js - Framework React para renderização otimizada
 
 Mapbox GL - Mapas interativos e dinâmicos
+
+Apollo Client - Utilizado como hook para consumir GraphQL
+
+Stripe - Integração para pagamentos
+
+Cloudinary - Armazenamento e gerenciamento de imagens na nuvem
+
+Tailwindcss e mui
 
 📌 Status do Projeto
 
